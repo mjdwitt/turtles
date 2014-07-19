@@ -38,7 +38,7 @@ like making a stack language, then I decided to make it lazy, and I'll probably
 continue to have stupid ideas that I'll cram into and subsequently rip out at 
 a later time. Anyways, here's my dumb idea:
 
-
+---
 
 Assume I have some sort of environment worked out. Given that, I'd like to
 define new words by placing some anonymous block on the stack followed by a
